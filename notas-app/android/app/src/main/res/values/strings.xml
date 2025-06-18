@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mis Notas</string>
+    <string name="title_activity_main">Mis Notas</string>
+    <string name="package_name">com.misnotas.app</string>
+    <string name="custom_url_scheme">com.misnotas.app</string>
+</resources>
